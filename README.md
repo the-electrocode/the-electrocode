@@ -1,6 +1,5 @@
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
-<em>I am a 3rd Year undergraduate student from <a href="https://gits.ac.in/"><b>Geetanjali Institute of Technical Studies , udaipur</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
- <br/>
+<em>We are from electrocode , Electrocode is a student education platform where the , we tries to include the different technologies , complete projects and a lot of different things.</em><br>
 
 ## Ask me about :computer: 
 - **Competitive Programming**
