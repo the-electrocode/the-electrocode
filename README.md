@@ -46,25 +46,20 @@
 
 
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=coder-lokesh&show_icons=true&theme=radical&line_height=33">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=coder-lokesh&hide_langs_below=.25&theme=radical">
-</p>
-
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
- <a href="https://www.linkedin.com/in/lokesh-sharma-908857193/" target="blank">
+ <a href="https://www.linkedin.com/in/electrocode-471423201/" target="blank">
   <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://www.instagram.com/_itsmeveera_/" target="blank">
+ <a href="https://www.instagram.com/the_electrocode/" target="blank">
   <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://twitter.com/lokeshs97047988" target="blank">
+ <a href="https://twitter.com/ElectroCode1" target="blank">
   <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://www.facebook.com/profile.php?id=100027676968883" target="blank">
+ <a href="https://www.facebook.com/ElectroCode-100929185304443" target="blank">
   <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
  </a> 
   <br/>
